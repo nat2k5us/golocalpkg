@@ -1,2 +1,6 @@
-# golocalpkg
-using local packages in go (without install)
+# go local pkg
+using local packages in go (without 'go install')
+
+Keep it simple
+
+
